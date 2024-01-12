@@ -31,7 +31,7 @@ Optional, but suggested:
 
 # screen shots
 
-![adding patinets information](screenshots/screenshot.png)
+![adding patinets information](screenshots/AddPatient.png)
 
 ![Patients List/ Dashboard](screenshots/PatientsDashboard.png)
 
